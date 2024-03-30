@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/price-alert/static/css/main.2af50189.chunk.css",
-    "main.js": "/price-alert/static/js/main.d15bd960.chunk.js",
-    "main.js.map": "/price-alert/static/js/main.d15bd960.chunk.js.map",
-    "runtime-main.js": "/price-alert/static/js/runtime-main.65027b03.js",
-    "runtime-main.js.map": "/price-alert/static/js/runtime-main.65027b03.js.map",
-    "static/js/2.63b37a1e.chunk.js": "/price-alert/static/js/2.63b37a1e.chunk.js",
-    "static/js/2.63b37a1e.chunk.js.map": "/price-alert/static/js/2.63b37a1e.chunk.js.map",
-    "index.html": "/price-alert/index.html",
-    "static/css/main.2af50189.chunk.css.map": "/price-alert/static/css/main.2af50189.chunk.css.map",
-    "static/js/2.63b37a1e.chunk.js.LICENSE.txt": "/price-alert/static/js/2.63b37a1e.chunk.js.LICENSE.txt",
-    "static/media/profile-picture.e64639c8.png": "/price-alert/static/media/profile-picture.e64639c8.png",
-    "static/media/zillow_icon.7eccc6dd.png": "/price-alert/static/media/zillow_icon.7eccc6dd.png"
+    "main.css": "/zillow/static/css/main.2af50189.chunk.css",
+    "main.js": "/zillow/static/js/main.b7957e20.chunk.js",
+    "main.js.map": "/zillow/static/js/main.b7957e20.chunk.js.map",
+    "runtime-main.js": "/zillow/static/js/runtime-main.6bc487f3.js",
+    "runtime-main.js.map": "/zillow/static/js/runtime-main.6bc487f3.js.map",
+    "static/js/2.7fc0ce75.chunk.js": "/zillow/static/js/2.7fc0ce75.chunk.js",
+    "static/js/2.7fc0ce75.chunk.js.map": "/zillow/static/js/2.7fc0ce75.chunk.js.map",
+    "index.html": "/zillow/index.html",
+    "static/css/main.2af50189.chunk.css.map": "/zillow/static/css/main.2af50189.chunk.css.map",
+    "static/js/2.7fc0ce75.chunk.js.LICENSE.txt": "/zillow/static/js/2.7fc0ce75.chunk.js.LICENSE.txt",
+    "static/media/profile-picture.e64639c8.png": "/zillow/static/media/profile-picture.e64639c8.png",
+    "static/media/zillow_icon.7eccc6dd.png": "/zillow/static/media/zillow_icon.7eccc6dd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65027b03.js",
-    "static/js/2.63b37a1e.chunk.js",
+    "static/js/runtime-main.6bc487f3.js",
+    "static/js/2.7fc0ce75.chunk.js",
     "static/css/main.2af50189.chunk.css",
-    "static/js/main.d15bd960.chunk.js"
+    "static/js/main.b7957e20.chunk.js"
   ]
 }
